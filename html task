@@ -1,0 +1,162 @@
+<! DOCTYPE HTML>    (INDEX PAGE)
+<html>
+  <head>
+     <meta charset= "utf-8">
+     <meta name="description" content="City of Kokkola" >
+     <title>Kokkola municipal</title>
+     <link rel ="stylesheet" href ="style.css">
+   </head>
+   <body style="background-color: lightblue;">
+       <header>
+       	   <nav>
+       	   	  <ul>
+       	   	  	<li><a href="about.html">About</a></li>
+       	   	  	<li><a href="population.html">Population</a></li>
+       	   	  	<li><a href="education.html">Education</a></li>
+       	   	  	</ul>
+       	   </nav>
+       	     <hr>
+             <h1>Welcome to Kokkola</h1>
+             <p style="font-size: 120%;">A beautiful city on the coast</p>
+             <br>
+             <!--Background Image-->
+        </header>
+        <section>
+          <div>
+            <div>
+              <strong><button>News</button></strong>
+              <span>Summer food fest begins on the 24th of July...</span>
+            </div>
+            <hr>
+            <div>
+              <strong><button>Tourism</button></strong>
+              <span>Visit our old town for something new and exciting this summer...</span>
+            </div>
+            <hr>
+            <div>
+              <strong><button>Help</button></strong>
+              <span>In case of any help, feel free to call any of the below numbers...</span>
+            </div>
+          
+          </div>
+        </section>
+        <footer>
+        	<h3>Kokkola</h3>
+        	<ul>
+        		<li>
+             <a href="https://instagram.com">
+            <img src="insta_image.jpg" alt="insta_image"; width="3%"; height="4%";>
+             </a>
+            </li>
+        		<li>
+             <a href="https://twitter.com">
+            <img src="twtt_img.png" alt="twtt_img"; width="3%"; height="4%";>
+             </a>
+            </li>
+        		<li>
+             <a href="https://youtube.com">
+            <img src="Youtb_img.png" alt="Youtb_img"; width="3%"; height="4%";>
+             </a>
+            </li>
+        	</ul>
+        </footer>     
+        </body>
+</html>     
+
+<! DOCTYPE HTML>                                                  (ABOUT PAGE)
+<html>
+  <head>
+     <meta charset= "utf-8">
+     <meta name="description" content="City of Kokkola" >
+     <title>Kokkola municipal About</title>
+     <link rel ="stylesheet" href ="style.css">
+   </head>
+   <body style="background-color: lightblue;">
+       <header>
+       	   <nav>
+       	   	  <ul>
+       	   	  	<li><a href="index.html">About</a></li>
+       	   	  	<li><a href="population.html">Population</a></li>
+       	   	  	<li><a href="education.html">Education</a></li>
+       	   	  </ul>
+       	   </nav>
+       	     <hr>
+             <h1>Kokkola</h1>
+        </header>
+        <section>
+              <h3>About</h3>
+              <p>Kokkola is  located in Central Ostrobothnia in Western Finland, on the coast of the Gulf of Bothnia. The town is the financial, administrative, educational and cultural center of the region.<br>
+              Kokkola was founded in 1620 by King Gustav II Adolf of Sweden. Due to the consolidation of municipalities the municipality of Kaarlela was incorporated to the city of Kokkola in 1977, <br> brand the municipalities of Kälviä, Lohtaja and Ullava in 2009.</p>
+              <img src="kok_img1.jpg">
+        </section>
+        <footer>
+        	<h3>Kokkola</h3>
+        	<ul>
+        		<li><img src="insta_image.jpg" alt="insta_image"; width="3%"; height="4%";></li>
+        		<li><img src="twtt_img.png" alt="twtt_img"; width="3%"; height="4%";></li>
+        		<li><img src="Youtb_img.png" alt="Youtb_img"; width="3%"; height="4%";></li>
+        	</ul>
+        </footer>     
+  </body> 
+</html>    
+
+<! DOCTYPE HTML>                                  (EDUCATION PAGE)
+<html>
+  <head>
+     <meta charset= "utf-8">
+     <meta name="description" content="City of Kokkola" >
+     <title>Kokkola municipal About</title>
+     <link rel ="stylesheet" href ="style.css">
+   </head>
+   <body style="background-color: lightblue;">
+       <header>
+       	   <nav>
+       	   	  <ul>
+       	   	  	<li>About</li>
+       	   	  	<li>Population</li>
+       	   	  	<li>Education</li>
+       	   	  </ul>
+       	   </nav>
+       	     <hr>
+        </header>
+        <section>
+              <h2>Education</h2>
+              <p>The town is famous for its University of Applied Sciences on the Talonpojankatu, which is attended by students from all works of life</p>
+              <div>
+               <div>
+                University Campus<br>
+                </div>
+              </div>
+              <img src="uni_img.jpg">
+        </section>
+        </body> 
+        </html>    
+        
+        <! DOCTYPE HTML>                 (POPULATION PAGE)
+<html>
+  <head>
+     <meta charset= "utf-8">
+     <meta name="description" content="City of Kokkola" >
+     <title>Kokkola municipal / Population</title>
+     <link rel ="stylesheet" href ="style.css">
+   </head>
+   <body style="background-color: lightblue;">
+       <header>
+       	   <nav>
+       	   	  <ul>
+       	   	  	<li><a href="about.html">About</a></li>
+       	   	  	<li><a href="index.html">Population</a></li>
+       	   	  	<li><a href="education.html">Education</a></li>
+       	   	  </ul>
+       	   </nav>
+       	     <hr>
+        </header>
+        <section>
+              <h2>Population</h2>
+              <p>The population of Kokkola has been growing rapidly within the past few years. There are 47 570 people living in Kokkola at the moment, which makes it the 22nd biggest town in Finland. The total area of Kokkola is 2 731 km2, from which 1 444 km2 is land area.</p>
+              <p>The town’s population density is 32.39 inhabitants per km2. Of the town's population, 84.0 % speak Finnish as a first language and 12.6 % speak Swedish, and 3.4 % speak a language other than Finnish or Swedish as a first language.</p>
+              <div>
+               <img src="pop_img.jpg" width="30%"; height="30%">
+              </div>
+          </body> 
+          </html>    
